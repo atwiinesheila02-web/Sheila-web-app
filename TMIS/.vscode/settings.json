@@ -1,0 +1,20 @@
+{
+    "terminal.integrated.cwd": "${workspaceFolder}/TMIS",
+    "idf.currentSetup": "C:\\Users\\User\\Embedded_Systems\\.espressif\\v6.0.2\\esp-idf",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "TMIS local",
+            "username": "root",
+            "database": "TMIS"
+        }
+    ]
+}
